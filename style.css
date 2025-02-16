@@ -1,0 +1,150 @@
+.hi{
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    gap:15px;
+   border: 10px solid white;
+       
+    }
+    
+    .nabil{
+        display:flex;
+        justify-content: center;
+        flex-direction: row;
+    }
+  
+h1,h2,p,h3{
+    font-family: "Sour Gummy", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    color: white;
+    text-shadow: 0px 0px 10px black,
+    0px 0px 20px black,
+    0px 0px 40px black,
+    0px 0px 80px black;
+    font-size: 20px;
+}
+div{
+    transition-duration: 2s ;
+}
+#a:hover{
+content: url('https://i.postimg.cc/jdQnQSfL/Screenshot-2024-12-30-222659.png');
+display:flex;
+justify-content: center;
+flex-direction: row;
+height:200px ;
+width: 200px;
+align-items: center;
+
+}
+#b:hover{
+    content: url('https://i.postimg.cc/xCDtNdHt/IMG-0060.jpg');
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    height:200px ;
+    width: 200px;
+    align-items: center;
+    
+    }
+    #b:hover{
+        content: url('https://i.postimg.cc/xCDtNdHt/IMG-0060.jpg');
+        display:flex;
+        justify-content: center;
+        flex-direction: row;
+        height:200px ;
+        width: 200px;
+        align-items: center;
+        
+        }
+        #c:hover{
+            content: url('https://i.postimg.cc/wxk03gBQ/image5.jpg');
+            display:flex;
+            justify-content: center;
+            flex-direction: row;
+            height:200px ;
+            width: 200px;
+            align-items: center;
+            
+            }
+            #d:hover{
+                content: url('https://i.postimg.cc/Dy8LFT4Z/photo-2025-02-16-20-41-40.jpg');
+                display:flex;
+                justify-content: center;
+                flex-direction: row;
+                height:200px ;
+                width: 200px;
+                align-items: center;
+                
+                }
+                #e:hover{
+                    content: url('https://i.postimg.cc/Kcs30Hpy/photo-2025-02-16-20-44-49.jpg');
+                    display:flex;
+                    justify-content: center;
+                    flex-direction: row;
+                    height:200px ;
+                    width: 200px;
+                    align-items: center;
+                    
+                    }
+                    #f:hover{
+                        content: url('https://i.postimg.cc/wMtMK94Y/IMG-0955.jpg');
+                        display:flex;
+                        justify-content: center;
+                        flex-direction: row;
+                        height:200px ;
+                        width: 200px;
+                        align-items: center;
+                        
+                        }
+                        #g:hover{
+                            content: url('https://i.postimg.cc/htVJPPDS/3517-DDA1-CE78-4111-8-F94-3-A42-F6047812.jpg');
+                            display:flex;
+                            justify-content: center;
+                            flex-direction: row;
+                            height:200px ;
+                            width: 200px;
+                            align-items: center;
+                            
+                            }
+.img-container img {
+    transition: opacity 0.3s ease-in-out;
+}
+
+.img-container:hover img {
+    opacity: 0; /* Cache l'image normale */
+}
+.pipi{
+    text-shadow: 0px 0px 10px cyan,
+    0px 0px 20px cyan,
+    0px 0px 40px cyan,
+    0px 0px 80px cyan;  
+}
+.caca{
+    height: 200px;
+    width: 200px;
+   
+}
+body {
+    background-image: url('https://i.postimg.cc/2jXNQCF9/darker-bw-image.png');
+    background-size: 100px; 
+    background-repeat: repeat;
+    background-position: center; 
+    
+}
+
+
+
+.caca{
+ display:flex;
+    justify-content: center;
+    flex-direction: row;
+}
+#n{
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+}
